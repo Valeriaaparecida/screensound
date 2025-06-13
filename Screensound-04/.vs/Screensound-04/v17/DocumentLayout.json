@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valer\\Contacts\\Desktop\\Portifolio\\Linq-alura\\Screensound-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93EB7E2B-8353-4946-9F1F-A4898DFA8FF0}|Screensound-04\\Screensound-04.csproj|c:\\users\\valer\\contacts\\desktop\\portifolio\\linq-alura\\screensound-04\\screensound-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EB7E2B-8353-4946-9F1F-A4898DFA8FF0}|Screensound-04\\Screensound-04.csproj|solutionrelative:screensound-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Contacts\\Desktop\\Portifolio\\Linq-alura\\Screensound-04\\Screensound-04\\Program.cs",
+              "RelativeDocumentMoniker": "Screensound-04\\Program.cs",
+              "ToolTip": "C:\\Users\\valer\\Contacts\\Desktop\\Portifolio\\Linq-alura\\Screensound-04\\Screensound-04\\Program.cs",
+              "RelativeToolTip": "Screensound-04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:26:43.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
