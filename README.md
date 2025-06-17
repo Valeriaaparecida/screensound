@@ -24,5 +24,8 @@ O projeto segue boas práticas e convenções da linguagem C# e demonstra de for
 - LINQ
 - Serialização/Desserialização JSON
 
+###
+- Link da api de musicas usada no projeto: https://valeriaaparecida.github.io/screensound/songs.json
+
 
 
