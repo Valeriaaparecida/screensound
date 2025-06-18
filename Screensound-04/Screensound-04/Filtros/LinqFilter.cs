@@ -1,8 +1,6 @@
 ﻿
 using Screensound_04.Models;
 
-
-
 namespace Screensound_04.Filtros;
 
 internal class LinqFilter
@@ -34,6 +32,16 @@ internal class LinqFilter
         foreach (var musica in musicasDoArtista)
         {
             Console.WriteLine($"- {musica.Nome}");
+        }
+    }
+
+    internal static void FiltrarMusicasDeUmArtistaEMCSharp(List<Musica> musicas)
+    {
+        var musicasEmCSharp = musicas.Where(musica => musica.Tonalidade.Equals("C#")).Select(musica =>musica.Nome).ToList();
+        Console.WriteLine("Músicas na tonalidade C#:");
+        foreach (var musica in musicasEmCSharp)
+        {
+            Console.WriteLine($"- {musica}");
         }
     }
 }
